@@ -2,11 +2,11 @@
 
 Zapraszam do zapoznania się z wykonaną przeze mnie analizą danych irysów za pomocą eksploracji domenowej (EDA). W tym projekcie znajdziesz mnóstwo trafnych wniosków i ciekawych obserwacji, które rzucają nowe światło na te piękne kwiaty. Przygotuj się na fascynującą podróż przez dane, która z pewnością wzbogaci Twoją wiedzę i zainspiruje do dalszych badań.
 
-<a href="iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="Iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
 
 <iframe
     id="content"
-    src="iris.html"
+    src="Iris.html"
     width="100%"
     style="border:1px solid black;overflow:hidden;"
 ></iframe>
