@@ -1,3 +1,4 @@
-# Witaj w moim portfolio
+# Cześć tu Radek. Witaj w moim portfolio
 
-Cześć. Tutaj prezentuję moje dotychczasowe projekty związane z programowaniem oraz analizą danych!
+
+Tutaj prezentuję moje dotychczasowe projekty związane z programowaniem oraz analizą danych!

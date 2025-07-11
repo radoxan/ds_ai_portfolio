@@ -10,14 +10,13 @@ repo_url: https://github.com/radoxan/ds_ai_portfolio
 theme:
   name: material
   palette:
-    scheme: default
     primary: green
-    accent: yellow
+    accent: green
 
 nav:
 - Strona Domowa: index.md
 - Obecny projekt:
-  - 'URnewICanHelp':  URnewICanHelp/index.md
+  - 'ICanHelpU':  ICanHelpU/index.md
 - Poprzednie projekty:
   - "BendTime": BendTime/index.md
   - "Iris": Iris/index.md

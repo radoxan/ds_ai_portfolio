@@ -6,13 +6,6 @@ Do jej wykonania wykoszystałem algorytmy uczenia maszynowego PyCaret wytrenowan
 
 <a href="https://bendtime-jrnlq.ondigitalocean.app/" target="_blank" rel="noopener noreferrer">Odwiedź stronę BendTime</a>
 
-
-<iframe
-    id="content"
-    src="iris.html"
-    width="100%"
-    style="border:1px solid black;overflow:hidden;"
-></iframe>
 <script>
 function resizeIframeToFitContent(iframe) {
     iframe.style.height = (iframe.contentWindow.document.documentElement.scrollHeight + 50) + "px";
