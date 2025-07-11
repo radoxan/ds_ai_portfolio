@@ -1,0 +1,16 @@
+site_name: Moje projekty
+site_author: Radosław Krupa
+site_description: >-
+    Portfolio moich projektów z Data Science i AI!
+
+theme:
+  name: material
+
+nav:
+- Strona Domowa: index.md
+- Obecny projekt:
+  - 'URnewICanHelp':  URnewICanHelp/index.md
+- Poprzednie projekty:
+  - "BendTime": BendTime/index.md
+  - "Iris": Iris/index.md
+  - "Titanic": Titanic/index.md
