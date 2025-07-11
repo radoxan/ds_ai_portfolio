@@ -1,3 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://radoxan.github.io/ds_ai_portfolio/</loc>
+         <lastmod>2025-07-11</lastmod>
+    </url>
+    <url>
+         <loc>https://radoxan.github.io/ds_ai_portfolio/BendTime/</loc>
+         <lastmod>2025-07-11</lastmod>
+    </url>
+    <url>
+         <loc>https://radoxan.github.io/ds_ai_portfolio/Iris/</loc>
+         <lastmod>2025-07-11</lastmod>
+    </url>
+    <url>
+         <loc>https://radoxan.github.io/ds_ai_portfolio/Titanic/</loc>
+         <lastmod>2025-07-11</lastmod>
+    </url>
+    <url>
+         <loc>https://radoxan.github.io/ds_ai_portfolio/URnewICanHelp/</loc>
+         <lastmod>2025-07-11</lastmod>
+    </url>
 </urlset>
