@@ -1,5 +1,6 @@
 site_name: Moje projekty
 site_author: Radosław Krupa
+site_url: https://radoxan.github.io/ds_ai_portfolio/
 site_description: >-
     Portfolio moich projektów z Data Science i AI!
 
@@ -8,6 +9,10 @@ repo_name: radoxan/ds_ai_portfolio
 repo_url: https://github.com/radoxan/ds_ai_portfolio
 theme:
   name: material
+  palette:
+    scheme: default
+    primary: indigo
+    accent: green
 
 nav:
 - Strona Domowa: index.md
