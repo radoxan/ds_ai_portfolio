@@ -12,13 +12,13 @@
         <meta name="author" content="Radosław Krupa">
       
       
-        <link rel="canonical" href="https://radoxan.github.io/ds_ai_portfolio/BendTime/">
+        <link rel="canonical" href="https://radoxan.github.io/ds_ai_portfolio/DrawingGen/">
       
       
-        <link rel="prev" href="../FindFriends/">
+        <link rel="prev" href="..">
       
       
-        <link rel="next" href="../ArtGalleryGenerator/">
+        <link rel="next" href="../Iris/">
       
       
       <link rel="icon" href="../assets/images/favicon.png">
@@ -26,7 +26,7 @@
     
     
       
-        <title>BendTime - Moje projekty</title>
+        <title>GeneratorMiniatur - Moje projekty</title>
       
     
     
@@ -76,7 +76,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#bendtime" class="md-skip">
+        <a href="#strona-projektu-generatorminiatur" class="md-skip">
           Skip to content
         </a>
       
@@ -112,7 +112,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              BendTime
+              GeneratorMiniatur
             
           </span>
         </div>
@@ -251,18 +251,20 @@
       
   
   
+    
   
   
+  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
         
           
           <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
@@ -278,7 +280,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_2">
             <span class="md-nav__icon md-icon"></span>
             Obecny projekt
@@ -289,10 +291,19 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../DrawingGen/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -303,6 +314,7 @@
   
 
       </a>
+      
     </li>
   
 
@@ -319,20 +331,18 @@
       
   
   
-    
   
   
-  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
         
           
           <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
@@ -348,7 +358,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
             Poprzednie projekty
@@ -451,20 +461,18 @@
                 
   
   
-    
   
   
-  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" >
         
           
           <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
@@ -480,7 +488,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_3_2">
             <span class="md-nav__icon md-icon"></span>
             Uczenie maszynowe
@@ -514,19 +522,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../BendTime/" class="md-nav__link">
         
   
   
@@ -537,7 +536,6 @@
   
 
       </a>
-      
     </li>
   
 
@@ -756,25 +754,8 @@
   
 
 
-<h1 id="bendtime">BendTime</h1>
-<p>Aplikacja wykonana dla firmy Temared pozwalająca oszacować czas oraz koszt produkcji elementów podczas wykonywania operacji gięcia na prasach krawędziowych.
-Do jej wykonania wykoszystałem algorytmy uczenia maszynowego PyCaret wytrenowanego na historycznych danych. Interfejs został wykonany Streamlit. Aplikacja została wdrożona na platformie DigitalOcean. </p>
-<p><a href="https://bendtime-jrnlq.ondigitalocean.app/" target="_blank" rel="noopener noreferrer">Odwiedź stronę BendTime</a></p>
-<p><img alt="Zrzut ekranu z aplikacji BendTime" src="BendTime.jpg" /></p>
-<script>
-function resizeIframeToFitContent(iframe) {
-    iframe.style.height = (iframe.contentWindow.document.documentElement.scrollHeight + 50) + "px";
-    iframe.contentDocument.body.style["overflow"] = 'hidden';
-}
-window.addEventListener('load', function() {
-    var iframe = document.getElementById('content');
-    resizeIframeToFitContent(iframe);
-});
-window.addEventListener('resize', function() {
-    var iframe = document.getElementById('content');
-    resizeIframeToFitContent(iframe);
-});
-</script>
+<h1 id="strona-projektu-generatorminiatur">Strona projektu GeneratorMiniatur</h1>
+<p>Obecnie pracuję nad aplikacją pozwalającą na generowanie grafik zawierających miniatury elementów. Na podstawie dokumentacji technicznej aplikacja ma generować rzuty, które wydrukowane na niewielkiej etykiecie pozwolą szybko zidentyfikować do którego elementu ona przynależy</p>
 
 
 
