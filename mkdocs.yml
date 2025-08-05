@@ -14,10 +14,19 @@ theme:
     accent: green
 
 nav:
-- Strona Domowa: index.md
+- O mnie: index.md
+
 - Obecny projekt:
-  - 'ICanHelpU':  ICanHelpU/index.md
+  - 'GeneratorMiniatur': DrawingGen/index.md
 - Poprzednie projekty:
-  - "BendTime": BendTime/index.md
-  - "Iris": Iris/index.md
-  - "Titanic": Titanic/index.md
+  - "Analiza danych":
+    - "Iris": Iris/index.md
+    - "Titanic": Titanic/index.md
+  - "Uczenie maszynowe":
+      - "FindFriends": FindFriends/index.md
+      - "BendTime": BendTime/index.md
+  - "Sztuczna inteligencja":
+    - "ArtGalleryGenerator": ArtGalleryGenerator/index.md
+    - "MyOwnGPT": MyOwnGPT/index.md
+  - "Inne":
+    - "KonwerterERP": KonwerterERP/index.md
