@@ -1,6 +1,6 @@
 # Moja Analiza Danych EDA Pasażerów okrętu Titanic: Eksploracja Domenowa
 
-Zapraszam do zapoznania się z wykonaną przeze mnie analizą danych irysów za pomocą eksploracji domenowej (EDA). W tym projekcie znajdziesz mnóstwo trafnych wniosków i ciekawych obserwacji, które rzucają nowe światło na te piękne kwiaty. Przygotuj się na fascynującą podróż przez dane, która z pewnością wzbogaci Twoją wiedzę i zainspiruje do dalszych badań.
+Zapraszam do zapoznania się z wykonaną przeze mnie analizą danych pasażerów pamiętnego rejsu okrętu Titanic. Okręt podczas swojego pierwszego rejsu doświadczył fatalnego w skutkach uderzenia w górę lodową co doprowadziło do jego zatonięcia i śmierci wielu pasażerów.
 
 <a href="Titanic.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
 
