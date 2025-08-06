@@ -39,6 +39,7 @@ Na tej stronie znajdziesz moje projekty związane z programowaniem i analizą da
 - ➕ NumPy
 - 🧠 Scikit-learn
 - 🔥 PyTorch
+- 🧑‍🏫 Instructor
 - 🖼️ Tkinter
 - 🕸️ BeautifulSoup
 - 🌐 Requests

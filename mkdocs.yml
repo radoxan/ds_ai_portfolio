@@ -26,6 +26,7 @@ nav:
       - "FindFriends": FindFriends/index.md
       - "BendTime": BendTime/index.md
   - "Sztuczna inteligencja":
+    - "InvoiceReader": InvoiceReader/index.md
     - "ArtGalleryGenerator": ArtGalleryGenerator/index.md
     - "MyOwnGPT": MyOwnGPT/index.md
   - "Inne":

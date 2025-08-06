@@ -1,8 +1,16 @@
-# MyOwnGPT with personality
+# InvoiceReader
 
-Aplikacja pozwala na rozmowę ze stworzonym przeze mnie ChatBotem. Aplikacja pozwalana na ustawienie charakteru bota tak, jakby naszym rozmówcą był detektyw, profesor lub wyluzowany znajomy. Aplikacja pozwalna na wybór modelu OpenAi oraz potrafio oszacować koszt użycia modelu.
+Stworzona przeze mnie aplikacja do automatycznego odczytywania danych z faktur. Program przetwarza wszystkie pliki graficzne a następne zapisuje zbiorczo wszystkie informacje w pliku .csv
 
-![Generator obrazów](MOGPT1.jpg)
+Przykładowa faktura
+![InvoiceReader1](Faktura.jpg)
+
+Zebrane dane
+![InvoiceReader2](Data.jpg)
+
+Wykorzystanie klasy instructor
+![InvoiceReader3](Kod.jpg)
+
 
 <script>
 function resizeIframeToFitContent(iframe) {
