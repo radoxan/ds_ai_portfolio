@@ -17,9 +17,11 @@ Na tej stronie znajdziesz moje projekty związane z programowaniem i analizą da
 
 ### 📚 Kursy
 
-| Kurs          | Organizator | Rok  |
-|---------------|-------------|------|
-| Od zera do AI | Gotoit      | 2025 |
+| Kurs                               | Organizator | Rok  |
+|------------------------------------|-------------|------|
+| Pracuj w AI: Zostań Data Scientist |Gotoit       | 2025 |
+| Power Bi                           |Santander    | 2025 |
+| Python                             |Santander    | 2025 |
 
 
 ### 🧠 Technologie
@@ -52,8 +54,7 @@ Na tej stronie znajdziesz moje projekty związane z programowaniem i analizą da
 - 🧠 Visual Studio Code
 - 📓 Jupyter
 - ☁️ DigitalOcean
-- 🐳 Docke
-
+- 🐳 Docker
 
 ### 📬 Kontakt
 
